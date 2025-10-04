@@ -10,7 +10,7 @@ This demo repository demonstrates the methodology and reproducibility without ex
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 The full project covered seven research questions:
 
@@ -47,7 +47,7 @@ The full project covered seven research questions:
 
 ---
 
-## 📂 Repository Structure (Demo)
+## Repository Structure (Demo)
 
 ```
 JD-Modeling-TrainingOnly/
@@ -66,7 +66,7 @@ JD-Modeling-TrainingOnly/
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Install dependencies:
    ```bash
@@ -89,7 +89,7 @@ JD-Modeling-TrainingOnly/
 
 ---
 
-## 📊 Demo Dataset
+## Demo Dataset
 
 - File: `data/demo_training_dataset.csv`  
 - Aligned with the schema of the real JD training dataset but anonymized and simulated.  
@@ -99,7 +99,7 @@ This allows others to **reproduce the pipeline** without access to sensitive bus
 
 ---
 
-## 🔒 Why only two scripts?
+## Why only two scripts?
 
 The **global model script** and raw data cannot be published due to confidentiality.  
 To ensure reproducibility, this repository includes:
@@ -110,7 +110,7 @@ These two scripts showcase the **core methodology** (preprocessing, LightGBM mod
 
 ---
 
-## 🧩 Skills Demonstrated
+## Skills Demonstrated
 
 Through this project, I gained:
 - Proficiency in **pandas** for large-scale data cleaning and merging.  
@@ -121,7 +121,7 @@ Through this project, I gained:
 
 ---
 
-## 📬 Contact
+## Contact
 
 For collaboration or more details (academic/industry use), please contact:  
-📧 hongzhen080@gmail.com
+hongzhen080@gmail.com
