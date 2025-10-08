@@ -114,8 +114,7 @@ These two scripts showcase the **core methodology** (preprocessing, LightGBM mod
 
 Through this project, I gained:
 - Proficiency in **pandas** for large-scale data cleaning and merging.  
-- Mastery of **LightGBM** for classification/regression.  
-- Ability to build **heterogeneous models** for different user groups.  
+- Mastery of **LightGBM** for classification/regression.    
 - Experience with **matplotlib** for visualization and exploratory analysis.  
 - Skills in **feature importance interpretation** for business insights.  
 
